@@ -1,0 +1,66 @@
+nav{
+    z-index: 1;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    width: 500px;
+   
+}
+
+li a{
+   
+    width: 90px;
+    color: yellow;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://media3.giphy.com/media/CIjXMxobcEnkI/giphy.webp?cid=790b761176c02a025b51595648359d28462fe43e234f5f96&rid=giphy.webp);
+    background-size: 100%;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-family: monospace;
+    font-size: 96px;
+    background-color: purple;
+}
+
+.link{
+    border-radius: 10px;;
+    background-color: purple;
+    line-height: 50px;    
+}
+
+.aboutMe{
+    color: yellow;
+    font-size: 48px;
+    border-radius: 10px;
+    background-color: purple;
+    width:50%;
+}
+
+
+.homeLink{
+    font-size: 48px;;
+    border-radius: 10px;
+    background-color: purple;
+    width: 50%;
+}
+
+.images{
+    width: 45%;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+}
+
