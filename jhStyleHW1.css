@@ -9,7 +9,11 @@ nav{
 ul{
     list-style-type: none;
     margin: 0;
-    width: 500px;
+    width: 100px;
+    padding-top: 120px;
+    padding-left: 0px;
+   
+    
    
 }
 
@@ -19,7 +23,8 @@ li a{
     color: yellow;
     text-decoration: none;
     padding: 8px 16px;
-    font-size: 30px;
+    font-size: 20px;
+    display: block;
 }
 body{
     background-image: url(https://media3.giphy.com/media/CIjXMxobcEnkI/giphy.webp?cid=790b761176c02a025b51595648359d28462fe43e234f5f96&rid=giphy.webp);
@@ -48,7 +53,7 @@ h1{
     color: yellow;
     text-align: center;
     font-family: monospace;
-    font-size: 96px;
+    font-size: 500%;
     background-color: purple;
 }
 
