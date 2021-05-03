@@ -533,3 +533,27 @@
     font-size: 2rem;
   }
 
+  .project__link_container{
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+  }
+
+  .project__link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 10px 20px;
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background: #833ab4;
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+    color: #39FF14;
+    transition: all 0.3s ease;
+  }
